@@ -1,0 +1,1 @@
+vue buckect scaffld: vue, vuex, vue-router

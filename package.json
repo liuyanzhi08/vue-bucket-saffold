@@ -1,7 +1,7 @@
 {
   "name": "testing",
   "version": "1.0.0",
-  "description": "数据智能自动化测试平台",
+  "description": "vue buckect scaffld: vue, vuex, vue-router",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
